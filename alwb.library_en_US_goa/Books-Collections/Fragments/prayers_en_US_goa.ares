@@ -371,6 +371,19 @@ petKneel07 = ""
 
 petKneel08 = ""
 
+petOrdination01a = "" // supplement with client specific rank and name
+petOrdination01b = ""
+
+petOrdination02_deacon = ""
+petOrdination02_priest = ""
+petOrdination02_bishop = ""
+
+petOrdination03_deacon = ""
+petOrdination03_priest = ""
+petOrdination03_bishop = ""
+
+petOrdination04 = ""
+
 petSouls01 = ""
 
 petSouls02 = ""
