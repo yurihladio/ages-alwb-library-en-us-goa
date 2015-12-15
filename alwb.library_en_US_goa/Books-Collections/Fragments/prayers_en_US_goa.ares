@@ -503,6 +503,7 @@ res04 = ""
 res05 = ""
 
 res06 = ""
+res06.MM.long.sos.text = properties_en_US_goa.media.key
 
 res07 = ""
 
