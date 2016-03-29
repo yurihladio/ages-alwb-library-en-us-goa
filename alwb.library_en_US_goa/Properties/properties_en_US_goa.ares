@@ -3,13 +3,13 @@ A_Resource_Whose_Name = properties_en_US_goa
 version.designation = "GOA"
 version.translator = ""
 
-version.copyright1 = "© Greek Orthodox Archdiocese of America"
-version.copyright2 = ""
+version.copyright1 = "© The Greek Orthodox Archdiocese of America"
+version.copyright2 = "All rights reserved. No part of this book may be used or reproduced in any manner whatsoever without written permission except in the case of brief quotations in articles and reviews. For permission contact the publisher."
 version.copyright3 = ""
 
-contact.address_1 = "Greek Orthodox Archdiocese of America"
-contact.address_2 = ""
-contact.address_3 = ""
+contact.address_1 = "Holy Cross Orthodox Press"
+contact.address_2 = "50 Goddard Avenue"
+contact.address_3 = "Brookline, MA 02445"
 contact.phone = ""
 contact.email = ""
 
