@@ -19,7 +19,7 @@ hoTY.Key0217.text = ""
 //0400-0408
 
 hoTY.Key0408.mode = misc_en_US_goa.Mode2
-hoTY.Key0408.text = ""
+hoTY.Key0408.text = 
 
 hoTY.Key0501.text = ""
 
