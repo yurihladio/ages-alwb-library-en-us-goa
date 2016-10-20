@@ -18,6 +18,7 @@ euLI.Key0110.text = prayers_en_US_goa.res04
 euLI.Key0200.text = "THE LITANY OF PEACE OR GREAT LITANY" //.text and not .title for the sake of media
 euLI.Key0201.title = "THE PRAYER OF THE FIRST ANTIPHON"
 euLI.Key0201.text = "Lord, our God, Whose dominion is incomparable and glory incomprehensible; Whose mercy is immeasurable, and love for mankind ineffable: Look upon us and upon this holy house in Your loving-kindness, and grant to us and to those who pray with us Your abundant mercy and compassion."
+euLI.Key0202.title = "THE SMALL LITANY"
 
 // Part 03 Antiphon 2
 euLI.Key0301.title = "THE PRAYER OF THE SECOND ANTIPHON"
@@ -28,14 +29,15 @@ euLI.Key0401.title = "THE PRAYER OF THE THIRD ANTIPHON"
 euLI.Key0401.text = "Lord, You have granted us to offer these common prayers in unison and have promised that when two or three agree in Your name, You will grant their requests. Fulfill now, O Lord, the petitions of Your servants as may be of benefit to them, granting us in the present age the knowledge of Your truth, and in the age to come eternal life."
 
 // Part 05 Small Entrance
-euLI.Key0501.titile = "THE ENTRANCE PRAYER"
+euLI.Key0500.title = "THE SMALL ENTRANCE"
+euLI.Key0501.title = "THE ENTRANCE PRAYER"
 euLI.Key0501.text = "Master, Lord our God, Who has established the orders and hosts of angels and archangels in heaven to minister to Your glory, grant that holy angels may enter with us, that together we may celebrate and glorify Your goodness. For to You belong all glory, honor, and worship, to the Father and to the Son and to the Holy Spirit, now and forever and to the ages of ages."
 euLI.Key0502.text = "Master, bless the holy entrance."
 euLI.Key0503.text = "Blessed be the entrance of Your holy ones always, now and forever and to the ages of ages."
  
 // Part 06 Trisagios Hymn 
 euLI.MM.Key0600.text = properties_en_US_goa.media.key
-euLI.Key0601.titile = "THE PRAYER OF THE TRISAGION HYMN"
+euLI.Key0601.title = "THE PRAYER OF THE TRISAGION HYMN"
 euLI.Key0601.text = "O Holy God, Who is resting among the holy ones, praised by the Seraphim with the thrice-holy voice, glorified by the Cherubim, and worshiped by every celestial power, You have brought all things into being out of nothing. You have created man according to Your image and likeness and adorned him with all the gifts of Your grace. You give wisdom and understanding to the one who asks, and You overlook not the sinner, but have set repentance as the way of salvation. You have granted us, Your humble and unworthy servants, to stand even at this hour before the glory of Your holy Altar of sacrifice and to offer to You due worship and praise. Master, accept the Trisagion Hymn also from the lips of us sinners, and visit us in Your goodness. Forgive all our voluntary and involuntary transgressions, sanctify our souls and bodies, and grant that we may worship You in holiness all the days of our lives, through the intercessions of the holy Theotokos and of all the saints who have pleased You throughout the ages."
 euLI.Key0602.text = "Dynamis."
 euLI.Key0603.text = prayers_en_US_goa.KelefsonDespota
@@ -49,6 +51,7 @@ euLI.Key0608.text = ""
 euLI.Key0701.text = "Bless, Master, the herald of the Gospel of the holy, glorious Apostle and Evangelist (Matthew, Mark, Luke or John)."
 euLI.Key0702.text = "May God, through the intercessions of the holy and glorious Apostle and Evangelist (Name), grant you who proclaim the Gospel to do so with great power, for the fulfillment of the Gospel of His beloved Son, our Lord Jesus Christ."
 euLI.Key0703.text = "Amen, amen, amen. Be it unto me according to your word."
+euLI.Key0704.title = "THE PRAYER OF THE HOLY GOSPEL"
 euLI.Key0704.text = "Shine in our hearts, O Master Who loves mankind, the pure light of Your divine knowledge, and open the eyes of our mind that we may comprehend the proclamations of Your Gospels. Instill in us also reverence for Your blessed commandments so that, having trampled down all carnal desires, we may lead a spiritual life, both thinking and doing all those things that are pleasing to You. For You, Christ our God, are the illumination of our souls and bodies, and to You we offer up glory, together with Your Father, Who is without beginning, and Your all-holy, good, and life-creating Spirit, now and forever and to the ages of ages. Amen."
 euLI.Key0705.text = prayers_en_US_goa.gos04
 euLI.Key0706.title = "THE SERMON"
@@ -124,12 +127,13 @@ euLI.Key1202.basil.text = ""
 euLI.Key1203.text = "Through the mercies of Your only begotten Son, with Whom You are blessed, together with Your all-holy, good, and life-creating Spirit, now and forever and to the ages of ages."
 euLI.Key1204.text = "Let us love one another, that with oneness of mind we may confess:"
 euLI.Key1205.text = "Father, Son, and Holy Spirit: Trinity, one in essence and undivided."
-euLI.Key1206.rubric = ""
+//euLI.Key1206.rubric = ""
 euLI.Key1206.text = properties_en_US_goa.media.key
 euLI.Key1207.text = "Christ is in our midst. He is and always shall be."
 euLI.Key1207a.text = "Christ is in our midst."
 euLI.Key1207b.text = "He is and always shall be."
 euLI.Key1208.text = "The doors! The doors! In wisdom, let us be attentive!"
+euLI.Key1209.title = "THE SYMBOL OF OUR FAITH"
 
 // Part 13 Holy Anaphora
 euLI.Key1300.title = "THE HOLY ANAPHORA"
@@ -172,7 +176,7 @@ euLI.Key1325.basil.text = ""
 euLI.Key1326.text = "So that they may be for those who partake of them for vigilance of soul, remission of sins, communion of Your Holy Spirit, fullness of the Kingdom of Heaven, boldness before You, not for judgment or condemnation. Again, we offer You this spiritual worship for those who have reposed in the faith: forefathers, fathers, patriarchs, prophets, apostles, preachers, evangelists, martyrs, confessors, ascetics, and for every righteous spirit made perfect in faith,"
 euLI.Key1326.basil.text = ""
 euLI.Key1327.text = "Especially for our most holy, pure, blessed, and glorious Lady, the Theotokos and ever-virgin Mary."
-euLI.Key1328.title = titles_en_US_goa.Megalynarion
+euLI.Key1328.title = ""
 euLI.Key1328.text = prayers_en_US_goa.AxionEstin.text
 euLI.Key1328.basil.text = //oc.m8.d1_en_US_goa.ocMA.Kathisma23.text
 euLI.Key1329.text = "For Saint John the prophet, forerunner, and Baptist; for the holy, glorious, and most praiseworthy apostles; for Saint(s) (Name), whose memory we celebrate; and for all Your saints, through whose supplications, visit us, O God. And remember all who have fallen asleep in the hope of the resurrection to life eternal (here the Priest commemorates by name those departed whom he wishes). Grant them rest, O our God, where the light of Your countenance keeps watch. Again we beseech You, Lord, remember all Orthodox bishops who rightly teach the word of Your truth, the presbyterate, the diaconate in Christ, and every priestly and monastic order. Again we offer You this spiritual worship for the whole world, for the holy, catholic, and apostolic Church, and for those living pure and reverent lives. For civil authorities and our armed forces, grant that they may govern in peace, Lord, so that in their tranquility we, too, may live calm and serene lives, in all piety and virtue."
@@ -193,6 +197,7 @@ euLI.Key1400.title = ""
 euLI.Key1401.text = "Having commemorated all the saints, again and again, in peace, let us pray to the Lord."
 euLI.Key1402.text = "For the precious Gifts here presented and consecrated, let us pray to the Lord."
 euLI.Key1403.text = "That our God Who loves mankind, having accepted them at His holy and celestial and mystical altar as an offering of spiritual fragrance, may in return send down upon us the divine grace and the gift of the Holy Spirit, let us pray."
+euLI.Key1404.rubric = "(The following petitions in small print were not originally included. they were most probably added owing to the influence of the Liturgy of the Presanctified Gifts. That is why they are rightly omitted today.)"
 euLI.Key1404.text = "Having asked for the unity of the faith and for the communion of the Holy Spirit, let us commend ourselves and one another and our whole life to Christ our God."
 euLI.Key1405.text = "We entrust to You, loving Master, our whole life and hope, and we beseech, pray, and implore You: Grant us to partake of Your heavenly and awesome Mysteries from this sacred and spiritual table with a clear conscience for the remission of sins, the forgiveness of transgressions, the communion of the Holy Spirit, the inheritance of the Kingdom of Heaven, and boldness before You, not unto judgment or condemnation."
 euLI.Key1405.basil.text = ""

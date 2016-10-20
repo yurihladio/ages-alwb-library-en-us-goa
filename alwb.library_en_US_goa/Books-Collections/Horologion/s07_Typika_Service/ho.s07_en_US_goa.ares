@@ -31,11 +31,11 @@ hoLI.Antiphon2s.text = "risen from the dead,"
 hoLI.Antiphon2w.text = "Who are wondrous in Your saints,"
 hoLI.Antiphon22.text = "we sing to You, Alleluia."
 
-hoLI.EntranceHymn.text = "" //in the template add parts of Antiphon 2
+hoLI.EntranceHymn.text = "Come, let us worship and bow down before Christ." //in the template add parts of Antiphon 2
 hoLI.EntranceHymn2s.text = hoLI.Antiphon2s.text
 hoLI.EntranceHymn2w.text = hoLI.Antiphon2w.text
 
-hoLI.TrisagiosHymn.title = "TRISAGION HYMN"
+hoLI.TrisagiosHymn.title = "THE TRISAGION HYMN"
 hoLI.TrisagiosHymn.text = "Holy God, Holy Mighty, Holy Immortal, have mercy on us."
 hoLI.TrisagiosHymn1.text = "Holy God."
 hoLI.TrisagiosHymn2.text = "Holy Mighty."
