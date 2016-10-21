@@ -1,0 +1,26 @@
+A_Resource_Whose_Name = ho.s21_en_US_goa
+
+hoPCPrayer.title = "PRAYERS OF HOLY COMMUNION"
+hoPCPrayer.PistevoKyrie.text = "I believe and confess, Lord, that You are truly the Christ, the Son of the living God, Who came into the world to save sinners, of whom I am the first. I also believe that this is truly Your pure Body and that this is truly Your precious Blood. Therefore, I pray to You, have mercy upon me, and forgive my transgressions, voluntary and involuntary, in word and deed, in knowledge or in ignorance. And make me worthy, without condemnation, to partake of Your pure Mysteries for the remission of sins and for eternal life. Amen."
+
+hoPCPrayer.IdouVadizo.text = "Behold, I approach for Divine Communion. <br>
+O Maker, burn me not as I partake,  <br>
+For You are fire consuming the unworthy. <br>
+But cleanse me from every stain."
+
+//find this in Holy Week
+hoPCPrayer.TouDeipnouSou.text = "O Son of God, receive me today as a partaker of Your mystical supper. For I will not speak of the mystery to Your enemies, nor will I give You a kiss, as did Judas. But like the thief, I confess to You: Remember me, Lord, in Your Kingdom."
+
+hoPCPrayer.Theourgon.text = "Tremble, O man, as you behold the divine Blood. <br>
+It is a burning coal that sears the unworthy. <br>
+The Body of God both deifies and nourishes me: <br>
+It deifies the Spirit and wondrously nourishes the mind."
+
+// find this on August 6
+hoPCPrayer.Ethelxas.text = "You have smitten me with yearning, O Christ, and by Your divine eros You have changed me. But burn up with spiritual fire my sins, and grant me to be filled with delight in You, so that, leaping for joy, I may magnify, O Good One, Your two comings." //me.m08.d06_en_US_goa.meMA.Ode9C23.text
+
+//find this in Holy Week
+hoPCPrayer.EnTaisLambrotisi.text = "How shall I, who am unworthy, enter into the splendor of Your saints? If I should dare to enter into the bridal chamber, my vesture will condemn me, since it is not a wedding garment; and being bound up, I shall be cast out by the angels. Cleanse, O Lord, the filth of my soul, and save me, as You are the one Who loves mankind. In Your love, Lord, cleanse my soul, and save me."
+
+hoPCPrayer.DespotaFilanthrope.text = "Master Who loves mankind, Lord Jesus Christ, my God, let not these Holy Gifts be to my judgment because I am unworthy, but rather for the purification and sanctification of both soul and body and the pledge of the life and Kingdom to come. It is good for me to cleave unto God and to place in Him the hope of my salvation."
+
