@@ -1,0 +1,100 @@
+A_Resource_Whose_Name = ho.s10_en_US_goa
+
+hoVE.title = ""
+
+R01 = ""
+R02 = ""
+hoVE.Ps103.text = "" //for media (text)
+R03 = ""
+R04 = ""
+R05 = ""
+R06 = ""
+R07 = ""
+R08 = ""
+R09 = ""
+hoVE.FosIlaron.title = ""
+R10 = ""
+hoVE.FosIlaron.text = ""
+R11 = ""
+
+hoVE.SundayEvening.title = ""
+hoVE.SundayProkeimenon.text = "" //for media
+
+hoVE.MondayEvening.title = ""
+hoVE.MondayProkeimenon.text = "" //for media
+
+hoVE.TuesdayEvening.title = ""
+hoVE.TuesdayProkeimenon.text = "" //for media
+
+hoVE.WednesdayEvening.title = ""
+hoVE.WednesdayProkeimenon.text = "" //for media
+
+hoVE.ThursdayEvening.title = ""
+hoVE.ThursdayProkeimenon.text = "" //for media
+
+hoVE.FridayEvening.title = ""
+hoVE.FridayProkeimenon.text = "" //for media
+
+hoVE.SaturdayEvening.title = ""
+hoVE.SaturdayProkeimenon.text = "" //for media
+
+hoVE.GreatProkeimenonTisTheosMegas.text = "" //for media
+hoVE.GreatProkeimenonOTheosImon.text = "" //for media
+hoVE.GreatProkeimenonLent1.text = "" //for media
+hoVE.GreatProkeimenonLent2.text = "" //for media
+
+R12 = ""
+R13 = ""
+R14 = ""
+hoVE.MondayAlleluia.title = ""
+hoVE.MondayAlleluia.text = "" //for possible media
+
+hoVE.TuesdayThursdayAlleluia.title = ""
+hoVE.TuesdayThursdayAlleluia.text = "" //for possible media
+
+hoVE.WednesdayAlleluia.title = ""
+hoVE.WednesdayAlleluia.text = "" //for possible media
+
+hoVE.FridayAlleluia.title = ""
+hoVE.FridayAlleluia.text = "" //for possible media
+
+R15 = ""
+
+//Not in Horologion. Needed for Vespers readings
+hoVE.Reading_Intro.text1 = ""
+hoVE.Reading_Intro.text2 = "" //This second part is needed to construct the Greek sentence.
+
+R16 = ""
+//This Prayer is also in the Small Doxology, at Matins, Compline etc. with ""
+hoVE.Prayer_Kataxioson.text = ""
+R17 = ""
+R18 = ""
+R19 = ""
+R20 = ""
+R21 = ""
+hoVE.LentApolytikion1.mode = misc_en_US_goa.Mode5
+hoVE.LentApolytikion1.text = "Hail, most blessed Mary, Virgin Theotokos, the Lord is with you. Blessed are you among women, and blessed is the fruit of your womb, for you have given birth to the Savior of our souls."
+hoVE.LentApolytikion2.mode = misc_en_US_goa.Mode5
+hoVE.LentApolytikion2.text = ""
+hoVE.LentApolytikion3.mode = misc_en_US_goa.Mode5
+hoVE.LentApolytikion3.text = ""
+hoVE.LentApolytikion4.mode = misc_en_US_goa.Mode5
+hoVE.LentApolytikion4.text = //oc.m5.d7_en_US_goa.ocMA.LaudsTheotokion.text 
+R22 = ""
+R23 = ""
+R24 = ""
+R25 = ""
+hoVE.Prayer_PanagiaTrias.text = //All-holy Trinity, the consubstantial dominion...
+hoVE.Prayer_EiiToOnomaKyriou.text = //Blessed be the name of the Lord...
+R26 = ""
+
+// Not in Orologion
+//Lity
+hoVE.LityKyrieEleison.text = prayers_en_US_goa.res06
+
+// Artoclasia
+hoVE.ArtoklasiaTheotokeParthene.text = hoVE.LentApolytikion1.text
+hoVE.ArtoklasiaPrayer1 = "Lord, Jesus Christ. our God, You blessed the five loaves in the wilderness and from them five thousand men were filled. Bless now these loaves, the wheat, the wine and oil and multiply them in this holy church, this city, in the homes of those who celebrate today, and in Your whole world. And sanctify Your faithful servants who partake of them."
+hoVE.ArtoklasiaPrayer2 = "For You are He who blesses and sanctifies all things, Christ our God, and to You we offer up glory together with Your eternal Father and Your holy, good, and life-creating Spirit, now and forever and to the ages of ages."
+hoVE.ArtoklasiaHymn.text = "" //for media
+

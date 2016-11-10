@@ -10,7 +10,7 @@ Allilouia1 = "Alleluia."
 
 Allilouia3.text = "Alleluia. Alleluia. Alleluia."
 
-Allilouia3Doxa.text = ""
+Allilouia3Doxa.text = "Alleluia. Alleluia. Alleluia. Glory to You, O God."
 
 DefteProskinisomen1 = ""
 
@@ -229,13 +229,13 @@ pet31 = "Peace be with all."
 
 pet32 = "Let us bow our heads to the Lord."
 
-pet33 = "" // Lity
+pet33 = "Again we pray for the protection of this holy church, this city and every city and land, from wrath, famine, pestilence, earthquake, flood, fire, sword, foreign invasion, civil strife, and accidental death. That our good and loving God may be merciful, gracious and kindly-disposed, and may divert and disperse all anger and disease coming against us, and deliver us from His own just threat hanging over us, and have mercy on us." // Lity
 
-pet34 = ""
+pet34 = "Again we pray that the Lord our God may hear the prayer of us sinners, and have mercy on us."
 
-pet35 = ""
+pet35 = "Hear us, O God our Savior, the hope of all those who live everywhere on earth and those far out at sea. Be gracious toward our sins, Master, and have mercy on us."
 
-pet36 = ""
+pet36 = "Accept our prayer; grant us forgiveness of our transgressions; protect us under the shelter of Your wings; drive away from us every enemy and adversary; grant peace to our life; Lord, have mercy on us and on Your world; and save our souls as a good and loving God."
 
 pet37 = "May the blessing and the mercy of the Lord come upon you by His divine grace and love for mankind, always, now and forever and to the ages of ages." // Dismissal
 
@@ -450,27 +450,27 @@ petWed14 = ""
 
 sup00 = ""
 
-sup00a = ""
+sup00a = "Most merciful Master, Lord Jesus Christ our God,"
 
-sup01 = ""
+sup01 = "through the intercessions of our most pure Lady, the Theotokos and ever virgin Mary;"
 
-sup02 = ""
+sup02 = "the power of the precious and life-giving Cross;"
 
-sup03 = ""
+sup03 = "the protection of the honorable, heavenly, bodiless powers;"
 
-sup04 = ""
+sup04 = "the supplications of the honorable, glorious prophet and forerunner John the Baptist;"
 
-sup05 = ""
+sup05 = "the holy, glorious, and praiseworthy apostles;"
 
-sup06 = ""
+sup06 = "our fathers among the saints, the great hierarchs and ecumenical teachers Basil the Great, Gregory the Theologian, and John Chrysostom;"
 
-sup07 = ""
+sup07 = "Athanasios, Cyril, and John the Merciful, patriarchs of Alexandria,"
 
-sup08 = ""
+sup08 = "Nicholas, bishop of Myra in Lycia, Spyridon, bishop of Trimythous, the wonderworkers;"
 
-sup09 = ""
+sup09 = "the holy, glorious, great martyrs George the victorious, Demetrios the Myrobletes, Theodore Teron, and Theodore Stratelates; Menas the wonderworker;"
 
-sup10 = ""
+sup10 = "Charalambos and Eleutherios, the Hieromartyrs;"
 
 sup11 = ""
 
@@ -485,13 +485,13 @@ sup11_marina = ""
 sup11_paraskevi = ""
 sup11_irene = ""
 
-sup12 = ""
+sup12 = "our venerable and God-bearing fathers;"
 
 sup13 = ""
 
-sup14 = ""
+sup14 = "holy and righteous ancestors of God Joachim and Anna;"
 
-sup15 = ""
+sup15 = "and all Your saints;"
 
 sup99 = ""
 
@@ -510,9 +510,9 @@ res06.MM.long.sos.text = properties_en_US_goa.media.key
 
 res07 = ""
 
-res08 = ""
+res08 = "Master, give the blessing."
 
-res09 = ""
+res09 = "Father, give the blessing."
 
 res10 = "Amen. Amen. Amen."
 
@@ -540,9 +540,9 @@ res06p = "(Lord, have mercy. Lord, have mercy. Lord, have mercy.)"
 
 res07p = ""
 
-res08p = ""
+res08p = "(Master, give the blessing.)"
 
-res09p = ""
+res09p = "(Father, give the blessing.)"
 
 res10p = "(Amen. Amen. Amen.)"
 
