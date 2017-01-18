@@ -361,10 +361,17 @@ petKneel07 = ""
 
 petKneel08 = ""
 
+petMonasteryLity01 = ""
+petMonasteryLity02 = ""
+petMonasteryLity03 = ""
+
 petMonastery01a = ""
 petMonastery01b = ""
 petMonastery02a = ""
 petMonastery02b = ""
+
+petMonastery22 = ""
+petMonastery23 = ""
 
 petOrdination01a = "" // supplement with client specific rank and name
 petOrdination01b = ""
