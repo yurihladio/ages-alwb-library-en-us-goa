@@ -1,17 +1,5 @@
 A_Resource_Whose_Name = pe.d00P_en_US_goa
 
-pePA.ChristIsRisen.text = "Christ is risen from the dead, by death trampling down upon death, and to those in the tombs He has granted life."
-pePA.ChristIsRisen1a.text = "Christ is risen from the dead, by death trampling down upon death, and to those in the tombs..."
-pePA.ChristIsRisen1b.text = "...He has granted life."
-pePA.ChristIsRisen2a.text = "Christ is risen from the dead, by death trampling down upon death..."
-pePA.ChristIsRisen2b.text = "...and to those in the tombs He has granted life."
-pePA.ChristIsRisenShort.text = "Christ is risen from the dead, by death trampling down upon death, and to those in the tombs He has granted life." //for media
-
-pePA.Hours1.text = pePA.ChristIsRisen.text
-
-
-
-
 peCommemoration.text = "" //full title of day
 peShortCommemoration1.text = ""
 peInsert1 = "" //for use in petitions and dismissal
