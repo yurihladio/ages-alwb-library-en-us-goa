@@ -1,5 +1,18 @@
 A_Resource_Whose_Name = ho.s21_en_US_goa
 
+hoPCPrayer.Key005.title = ""
+hoPCPrayer.Key005_1.title = ""
+hoPCPrayer.Key005_1.text = ""
+hoPCPrayer.Key005_2.text = ""
+hoPCPrayer.Key005_3.text = ""
+hoPCPrayer.Key005_4.text = ""
+hoPCPrayer.Key005_5.text = ""
+
+hoPCPrayer.Key006.title = ""
+hoPCPrayer.Key006_1.text = ""
+hoPCPrayer.Key006_2.text = ""
+hoPCPrayer.Key006_3.text = ""
+
 hoPCPrayer.title = "PRAYERS OF HOLY COMMUNION"
 
 hoPCPrayer.Key011.title = ""
