@@ -29,7 +29,6 @@ pePA.ChristIsRisen2a.text = "Christ is risen from the dead, by death trampling d
 pePA.ChristIsRisen2b.text = "...and to those in the tombs He has granted life."
 pePA.ChristIsRisenShort.text = "Christ is risen from the dead, by death trampling down upon death, and to those in the tombs He has granted life." //for media
 
-
 //pePA.PaschaVerse1.text = ""
 
 //pePA.PaschaVerse2.text = ""
@@ -335,10 +334,6 @@ pePA.Hours.R03 = ""
 pePA.Antiphon2.text = ho.s07_en_US_goa.hoLI.Antiphon2s.text
 
 pePA.EntranceHymn.text = properties_en_US_goa.media.key
-
-pePA.SeasonalKontakion.mode = misc_en_US_goa.Mode8
-pePA.SeasonalKontakion.melody = ""
-pePA.SeasonalKontakion.text = pePA.Kontakion.text
 
 pePA.TheotokosHymn.mode = misc_en_US_goa.Mode1
 pePA.TheotokosHymnVerse.text = pePA.Ode9MKa.text
