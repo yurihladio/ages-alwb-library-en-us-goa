@@ -482,8 +482,14 @@ sup06a = ""
 
 sup06b = ""
 
+sup06_basil = ""
+sup06_gregory = ""
+sup06_john = ""
 sup07 = "Athanasios, Cyril, and John the Merciful, patriarchs of Alexandria,"
-
+sup07_athanasios_cyril = ""
+sup07_athanasios = ""
+sup07_cyril = ""
+sup07_john = ""
 sup08 = "Nicholas, bishop of Myra in Lycia, Spyridon, bishop of Trimythous, the wonderworkers;"
 sup08_nicholas = "Spyridon, bishop of Trimythous, the wonderworker;"
 sup08_spyridon = "Nicholas, bishop of Myra in Lycia, the wonderworker;"
@@ -492,9 +498,12 @@ sup08_nektarios = "Nicholas, bishop of Myra in Lycia, Spyridon, bishop of Trimyt
 sup09 = "the holy, glorious, great martyrs George the victorious, Demetrios the Myrobletes, Theodore Teron, and Theodore Stratelates; Menas the wonderworker;"
 sup09_demetrios = "the holy, glorious, great martyrs George the victorious, Theodore Teron, and Theodore Stratelates; Menas the wonderworker;"
 sup09_george = "the holy, glorious, great martyrs Demetrios the Myrobletes, Theodore Teron, and Theodore Stratelates; Menas the wonderworker;"
-
+sup09_tyro = ""
+sup09_general = ""
+sup09_minas = ""
 sup10 = "Charalambos and Eleutherios, the Hieromartyrs;"
-
+sup10_haralambos = ""
+sup10_eleutherios = ""
 sup11 = ""
 
 sup11_eufimia = ""
