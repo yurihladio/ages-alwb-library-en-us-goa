@@ -86,3 +86,9 @@ TwiceWithNoVerse = ""
 
 WineOil = ""
 
+fasting.strict = "Strict: Refrain from meat, fish, oil, dairy, and eggs."
+fasting.wine = "Wine: Wine and oil are allowed. Refrain from meat, fish, dairy, and eggs."
+fasting.fish = "Fish: fish, oil and wine are allowed. Refrain from meat, dairy and eggs."
+fasting.dairy = "Dairy: Dairy, eggs, fish, oil and wine are allowed. Refrain from meat."
+fasting.free = "Fast Free: All foods allowed."
+
