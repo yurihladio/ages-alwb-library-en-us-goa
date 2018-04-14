@@ -1,0 +1,11 @@
+A_Resource_Whose_Name = liturgical.verses_en_US_goa 
+
+psVE.breadhymn.v1.info = ps_en_US_goa.psa33.v11.number //"33:11"
+psVE.breadhymn.v1.text = "The wealthy have become poor and gone hungry, but those who seek the Lord shall not lack any good thing."
+
+psLI.aftercommunion.v1.info = ps_en_US_goa.psa112.v2.number //"112:2"
+psLI.aftercommunion.v1.text = "Blessed be the name of the Lord, from this time forth and to the ages."
+psLI.aftercommunion.v1a.info = ps_en_US_goa.psa112.v2.number //"112:2"
+psLI.aftercommunion.v1a.text = "Blessed be the name of the Lord,"
+psLI.aftercommunion.v1b.info = ps_en_US_goa.psa112.v2.number //"112:2"
+psLI.aftercommunion.v1b.text = "from this time forth and to the ages."
