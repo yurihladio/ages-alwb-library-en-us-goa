@@ -675,6 +675,8 @@ epi01b = ""
 
 epi02 = "Peace be with you."
 
+epi03 = ""
+
 gos01 = ""
 
 gos02 = "Let us hear the Holy Gospel."
@@ -684,6 +686,8 @@ gos03a = "The reading is from the Holy Gospel according to"
 gos03b = ""
 
 gos04 = "Peace be with you."
+
+gos05 = ""
 
 otr01a = "The reading is from "
 
