@@ -185,9 +185,11 @@ pet17 = "Have mercy on us, O God, according to Your great mercy, we pray You, he
 
 pet18 = ""
 
-pet19 = "Again we pray for our Archbishop (Name)."
+pet19S = "Again we pray for our Archbishop (Name)."
+pet19Sa = "Again we pray for"
 
 pet19a = "Again we pray for"
+pet19b = "and all our brotherhood in Christ."
 
 pet20 = "Again we pray for our brethren: the priests, the hieromonks, the hierodeacons, the monastics, and all our brotherhood in Christ."
 
