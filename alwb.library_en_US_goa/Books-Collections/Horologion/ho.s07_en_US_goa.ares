@@ -43,6 +43,7 @@ hoLI.TrisagiosHymn2.text = "Holy Mighty."
 hoLI.TrisagiosHymn34.text = "Holy Immortal, have mercy on us."
 hoLI.TrisagiosHymn3.text = "Holy Immortal."
 hoLI.TrisagiosHymn4.text = "Have mercy on us."
+hoLI.MM.TrisagiosHymnBimatos.text = properties_en_US_goa.media.key
 hoLI.TrisagiosHymnDynamis.text = "Holy God, Holy Mighty, Holy Immortal, have mercy on us."
  
 hoLI.OsoiEisChriston.title = "INSTEAD OF HOLY GOD"
@@ -51,6 +52,7 @@ hoLI.OsoiEisChriston1.text = "You who have been baptized."
 hoLI.OsoiEisChriston2.text = "Into Christ."
 hoLI.OsoiEisChriston3.text = "Have put on Christ."
 hoLI.OsoiEisChriston4.text = "Alleluia."
+hoLI.MM.OsoiEisChristonBimatos.text = properties_en_US_goa.media.key
 hoLI.OsoiEisChristonDynamis.text = "You who have been baptized into Christ have put on Christ, Alleluia."
 
 hoLI.TonStavronSou.title = "INSTEAD OF HOLY GOD" 
@@ -59,6 +61,7 @@ hoLI.TonStavronSou1.text = "We venerate Your Cross."
 hoLI.TonStavronSou2.text = "O Master."
 hoLI.TonStavronSou3.text = "And we glorify."
 hoLI.TonStavronSou4.text = "Your Holy Resurrection."
+hoLI.MM.TonStavronSouBimatos.text = properties_en_US_goa.media.key
 hoLI.TonStavronSouDynamis.text = "We venerate Your Cross, O Master, and we glorify Your Holy Resurrection."
 
 hoLI.GospelAlleluia.title = titles_en_US_goa.Allilouia
