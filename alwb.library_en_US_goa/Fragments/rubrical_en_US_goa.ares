@@ -44,6 +44,8 @@ HolidayFish = ""
 
 HolidayWineOil = ""
 
+IfLityNotDoneAtVespers = ""
+
 InALowVoice = "(in a low voice)"
 
 Inaudibly = ""
@@ -91,6 +93,8 @@ TwiceWithNoVerse = ""
 VigilEntry = ""
 
 WineOil = ""
+
+WithoutVersesComingBefore = ""
 
 fasting.rule.title = "Fasting Rule"
 fasting.rule.strict = "Strict: Refrain from meat, fish, oil, dairy, and eggs."
