@@ -60,6 +60,7 @@ euLI.Key0704.text = "Shine in our hearts, O Master Who loves mankind, the pure l
 euLI.Key0705.text = prayers_en_US_goa.gos04
 euLI.Key0706.title = "THE SERMON"
 euLI.Key0706.rubric = "(According to ancient tradition, the sermon was delivered following the readings.)"
+euLI.Key0707.rubric = "The following litanies are usually omitted."
 
 // Part 08 Ektenia
 euLI.Key0800.title = "THE LITANY OF FERVENT SUPPLICATION"
