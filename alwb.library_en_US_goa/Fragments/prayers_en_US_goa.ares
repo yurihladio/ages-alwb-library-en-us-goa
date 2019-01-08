@@ -29,6 +29,7 @@ DoxaSoiChriste1 = ""
 DoxaSoiChriste2 = ""
 
 DoxaSoiKyrie = "Glory to You, O Lord, glory to You."
+DoxaSoiKyrie.MM.aftergospel.text = properties_en_US_goa.media.key
 
 DoxaSoiKyrieP = "(Glory to You, O Lord, glory to You.)"
 
