@@ -571,7 +571,9 @@ TonIsapostolon = ""
 
 //TouIeromartyros = ""
 
-//TouLazarou = ""
+//TouIosif = ""
+
+TouLazarou = ""
 
 //TouMartyros = ""
 
@@ -749,3 +751,12 @@ eclog.StAnne.title = ""
 //eclog.Transfiguration.title = ""
 //eclog.Dormition.title = ""
 //eclog.Meatfare.title = ""
+
+forMeeting = ""
+forAnnunciation = ""
+forTransfiguration = ""
+forDormition = ""
+forTheotokosBirth = ""
+forCross = ""
+forEntry = ""
+forChristmas = ""
