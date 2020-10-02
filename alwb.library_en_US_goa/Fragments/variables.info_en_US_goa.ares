@@ -1,24 +1,40 @@
 A_Resource_Whose_Name = variables.info_en_US_goa 
 
+Notice1.text = ""
+Notice2.text = ""
+
 Antiphon1.title = ""
+Antiphon1.text = ""
 Antiphon1.pagenumber = ""
 
 Antiphon2.title = ""
+Antiphon2.text = ""
 Antiphon2.pagenumber = ""
 
 Antiphon3.title = ""
+Antiphon3.text = ""
 Antiphon3.pagenumber = ""
 
 SmallEntrance.title = ""
+SmallEntrance.text = ""
 SmallEntrance.pagenumber = ""
 
 HymnsAfterSmallEntrance.title = ""
+HymnsAfterSmallEntrance.text = ""
 
 Trisagion.title = ""
+Trisagion.text = ""
 Trisagion.pagenumber = ""
 
-Readings.title = ""
-Readings.pagenumber = ""
+EpistleReading.title = ""
+EpistleReading.text = ""
+EpistleReading.pagenumber = ""
+
+Alleluia.title = ""
+Alleluia.text = ""
+
+GospelReading.title = ""
+GospelReading.text = ""
 
 GreatEntrance.title = ""
 GreatEntrance.pagenumber = ""
@@ -26,8 +42,9 @@ GreatEntrance.pagenumber = ""
 Creed.title = ""
 Creed.pagenumber = ""
 
-Theotokos.title = ""
-Theotokos.pagenumber = ""
+TheotokosHymn.title = ""
+TheotokosHymn.text = ""
+TheotokosHymn.pagenumber = ""
 
 LordsPrayer.title = ""
 LordsPrayer.pagenumber = ""
@@ -37,6 +54,7 @@ CommunionPrayers.pagenumber = ""
 CommunionPrayers.rubric = ""
 
 CommunionHymn.title = ""
+CommunionHymn.text = ""
 CommunionHymn.pagenumber = ""
 
 HolyCommunion.title = ""
@@ -45,7 +63,9 @@ HolyCommunion.rubric = ""
 Thanksgiving.rubric = ""
 
 AfterCommunion.title = ""
+AfterCommunion.text = ""
 AfterCommunion.pagenumber = ""
 
 Dismissal.title = ""
+Dismissal.text = ""
 Dismissal.pagenumber = ""
