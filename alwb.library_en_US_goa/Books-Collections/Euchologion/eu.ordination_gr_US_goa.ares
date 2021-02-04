@@ -17,12 +17,15 @@ euORD.DE.r03 = ""
 
 euORD.DE.p204.title = ""
 euORD.DE.p204.mode = 
+euORD.DE.p204.incipit = ""
 euORD.DE.p204.text = ""
 
 euORD.DE.p205.mode = 
+euORD.DE.p205.incipit = ""
 euORD.DE.p205.text = ""
 
 euORD.DE.p206.mode = 
+euORD.DE.p206.incipit = ""
 euORD.DE.p206.text = ""
 
 euORD.DE.r04 = ""
@@ -40,7 +43,7 @@ euORD.DE.r12 = ""
 euORD.DE.r13 = ""
 euORD.DE.r14 = ""
 euORD.DE.r15 = ""
-euORD.DE.r16 = "" 
+euORD.DE.r16 = ""
 euORD.DE.r17 = ""
 euORD.DE.r18 = ""
 
@@ -64,7 +67,7 @@ euORD.PR.p306.text = ""
 euORD.PR.r09 = ""
 euORD.PR.r10 = ""
 euORD.PR.r11 = ""
-euORD.PR.r12 = "" 
+euORD.PR.r12 = ""
 euORD.PR.p307.text = ""
 euORD.PR.r13 = ""
 euORD.PR.r14 = ""
