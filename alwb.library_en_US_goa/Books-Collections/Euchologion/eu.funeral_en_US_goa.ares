@@ -41,7 +41,6 @@ euFUN.MM.Key0500.text = properties_en_US_goa.media.key
 
 euFUN.Key0600.title = ""
 euFUN.Key0600.mode = misc_en_US_goa.Mode5
-euFUN.Key0600.incipit = ho.s03_en_US_goa.hoMA.FuneralEvlogVerse.incipit
 euFUN.Key0600.text = ho.s03_en_US_goa.hoMA.FuneralEvlogVerse.text
 euFUN.Key0601.incipit = ho.s03_en_US_goa.hoMA.FuneralEvlog1.incipit
 euFUN.Key0601.text = ho.s03_en_US_goa.hoMA.FuneralEvlog1.text
@@ -55,7 +54,6 @@ euFUN.Key0605.incipit = ho.s03_en_US_goa.hoMA.FuneralEvlog7.incipit
 euFUN.Key0605.text = ho.s03_en_US_goa.hoMA.FuneralEvlog7.text
 euFUN.Key0606.incipit = ho.s03_en_US_goa.hoMA.FuneralEvlog8.incipit
 euFUN.Key0606.text = ho.s03_en_US_goa.hoMA.FuneralEvlog8.text
-euFUN.Key0607.incipit = ho.s03_en_US_goa.hoMA.FuneralEvlog9.incipit
 euFUN.Key0607.text = ho.s03_en_US_goa.hoMA.FuneralEvlog9.text
 
 euFUN.Key0700.title = ""
